@@ -1,0 +1,30 @@
+add scooter S-1 ModelX 2.5 8
+add scooter S-3 ModelX 3.0 9
+add ebike E-1 Turbo 1.5 7
+add bike B-1 City 4
+add tractor T-1 Big 5 7
+add helmet H-1 Pro
+add dock D-1 Hub 10.0
+add fueltank F-1 Tank 3
+add scooter S-2 brokenX 1.0 9
+add tractor T-2 IHateTractor 1 5
+add bike B-1 Dup 5
+add bike B-2 Bad 11
+add dock D-2 Neg -1
+add dock D-3 Bad 1.5x
+list
+count
+novice
+energy
+fuel
+info T-1
+show_focus
+focus S-1
+show_focus
+remove S-1
+show_focus
+remove S-1
+focus Z-9
+foo
+add
+quit
