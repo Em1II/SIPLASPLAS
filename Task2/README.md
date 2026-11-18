@@ -62,6 +62,6 @@ EnergyConsumer (abstract)      GasConsumer (abstract)      InventoryItem (abstra
 `fuel`, `count`, `info`; правило техосмотра: `hate` + `tractor` тоже отклоняется.
 
 ## ИИ
-- Рисовка схем наследования.
+- Рисовка схем наследования + причёсывание README.
 - Консультации.
 - Практические советы по реализации (красивые методы по типу erase, freind метод для перегрузки печати, std::isfinite(v)).
